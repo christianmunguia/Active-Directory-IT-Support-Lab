@@ -74,9 +74,9 @@ The lab uses simulated employee accounts to reproduce common IT support requests
 | Account | Lab Purpose |
 |---|---|
 | John Doe (`jdoe`) | Domain sign-in verification and EngineeringShare access troubleshooting |
-| Damian Wayne | Account lockout and password reset |
-| Jason Todd | Group Policy wallpaper troubleshooting |
-| Jalen Brunson | DNS and domain connectivity troubleshooting |
+| Damian Wayne (`dwayne`) | Account lockout and password reset |
+| Jason Todd (`jtodd`)| Group Policy wallpaper troubleshooting |
+| Jalen Brunson (`jbrunson`) | DNS and domain connectivity troubleshooting |
 | Marcus Reed (`mreed`) | New employee onboarding and PowerShell automation |
 
 These accounts are fictional lab identities. Their configurations and group memberships were used to test different administrative and troubleshooting scenarios.
